@@ -1,0 +1,3 @@
+[submodule "CEIA_Analisis_de_datos"]
+	path = CEIA_Analisis_de_datos
+	url = https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git
